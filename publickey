@@ -39,3 +39,4 @@ vEAVomMlitCuPm2SSYnRkcgZG22fgq6randig/JpsHbToBtP0PEj+bacdSte29gJ
 23pRnPKc+41cwL3oq8yb/Fhj+biohgIp
 =grbk
 -----END PGP PUBLIC KEY BLOCK-----
+git log --all --full-history -- <path-to-file>
